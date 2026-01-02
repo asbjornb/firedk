@@ -31,6 +31,6 @@ This blog covers:
 
 ## Technical Details
 
-- Static HTML export from WordPress (via Simply Static plugin)
+- Static HTML export from WordPress
 - Original WordPress theme: Twenty Sixteen
 - Hosted on Cloudflare Pages
